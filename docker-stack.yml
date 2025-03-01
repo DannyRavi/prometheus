@@ -110,6 +110,7 @@ services:
       restart_policy:
         condition: on-failure
 
+
 #  pushgateway:
 #    image: prom/pushgateway
 #    deploy:
